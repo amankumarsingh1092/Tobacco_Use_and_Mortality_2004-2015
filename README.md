@@ -1,28 +1,29 @@
 # 🚭 Tobacco Use and Mortality (2004–2015) - ML Project
-To analyze and predict mortality risks associated with tobacco usage using machine learning models and data-driven insights. This project aims to contribute to public health awareness and support decision-making using statistical modeling and predictive analytics.
 
-This repository contains code, data, and documentation for a machine learning project analyzing the impact of tobacco usage on mortality rates using public health datasets from 2004 to 2015.
+🧾 About the Project
+This machine learning project analyzes the relationship between tobacco use and mortality rates using health data from 2004 to 2015. Smoking-related conditions resulted in 1.7 million hospital admissions in England in 2014–2015 alone, highlighting the urgency of predictive health analytics.
 
 ## 📌 Project Objective
-
-Predict mortality risks based on tobacco consumption patterns and demographic factors using supervised machine learning algorithms.
-
----
+To predict the likelihood of mortality using health data, with a focus on tobacco consumption patterns. This project combines data science techniques with real-world healthcare data to extract actionable insights and build predictive models that could assist in public health decision-making.
 
 ## 📊 Dataset
+### Source:
+The dataset includes tobacco usage and mortality statistics collected from:
+- **Health and Social Care Information Centre (HSCIC)**
+- **Department of Health (UK)**
+- **World Health Organization (WHO)**
+- **Centers for Disease Control and Prevention (CDC)**
+- **National Health and Nutrition Examination Survey (NHANES)**
+- **Behavioral Risk Factor Surveillance System (BRFSS)**
 
-- Publicly available datasets from HSCIC, WHO, CDC, etc.
-- Download from: [Dataset Link (Google Drive)](https://drive.google.com/drive/folders/1IGRFon3y8_rD83zPy0O-LWt646kJzBor?usp=sharing)
+## 🛠️ Tools & Technologies
 
----
-
-## 🛠️ Technologies Used
-
-- **Language**: Python
-- **Libraries**: pandas, numpy, scikit-learn, seaborn, matplotlib, XGBoost, SHAP
-- **Tools**: Jupyter Notebook, VS Code
-- **Deployment**: Flask API
-
+- **Languages**: Python, SQL  
+- **Data Processing & Visualization**: pandas, numpy, matplotlib, seaborn  
+- **Modeling**: scikit-learn, XGBoost, LightGBM, TensorFlow/Keras  
+- **Explainability**: SHAP, LIME  
+- **Deployment**: Flask (API), Streamlit / Dash (UI - optional)  
+- **IDE**: Jupyter Notebook
 ---
 
 ## 📁 Project Structure
