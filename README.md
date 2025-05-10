@@ -1,13 +1,13 @@
-# 🚭 Tobacco Use and Mortality (2004–2015) - ML Project
+# Tobacco Use and Mortality (2004–2015) - ML Project
 
 🧾 About the Project
 This machine learning project analyzes the relationship between tobacco use and mortality rates using health data from 2004 to 2015. Smoking-related conditions resulted in 1.7 million hospital admissions in England in 2014–2015 alone, highlighting the urgency of predictive health analytics.
 
-## 📌 Project Objective
+## Project Objective
 To predict the likelihood of mortality using health data, with a focus on tobacco consumption patterns. This project combines data science techniques with real-world healthcare data to extract actionable insights and build predictive models that could assist in public health decision-making.
 
-## 📊 Dataset
-🔍 Datasets Used:
+## Dataset
+ Datasets Used:
 
 **Health Surveys**: NHANES, BRFSS
 **Mortality Data**: WHO, CDC
@@ -15,7 +15,7 @@ To predict the likelihood of mortality using health data, with a focus on tobacc
 **Socioeconomic Data**: Age, gender, income, education, occupation
 **Health Data**: Pre-existing conditions, lifestyle, healthcare access
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Languages**: Python, SQL  
 - **Data Processing & Visualization**: pandas, numpy, matplotlib, seaborn  
@@ -25,7 +25,7 @@ To predict the likelihood of mortality using health data, with a focus on tobacc
 - **IDE**: Jupyter Notebook
 ---
 
-## 🧠 Methodology
+## Methodology
 ### 1. Problem Definition
 - Predict mortality risk based on tobacco use and associated factors.
 ### 2. Data Collection
@@ -58,7 +58,7 @@ To predict the likelihood of mortality using health data, with a focus on tobacc
 - REST API using Flask for prediction
 - (Optional) Web interface using Streamlit or Dash
 
-🔗 Author
+ Author
 Aman Kumar Singh
 • www.linkedin.com/in/aman-kumar-singh-71a090206 • aksingh1652@gmail.com
 
