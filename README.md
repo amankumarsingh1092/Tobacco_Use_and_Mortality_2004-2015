@@ -1,6 +1,6 @@
 # Tobacco Use and Mortality (2004–2015) - ML Project
 
-🧾 About the Project
+About the Project
 This machine learning project analyzes the relationship between tobacco use and mortality rates using health data from 2004 to 2015. Smoking-related conditions resulted in 1.7 million hospital admissions in England in 2014–2015 alone, highlighting the urgency of predictive health analytics.
 
 ## Project Objective
@@ -59,6 +59,6 @@ To predict the likelihood of mortality using health data, with a focus on tobacc
 - (Optional) Web interface using Streamlit or Dash
 ### Author
 - Aman Kumar Singh
-- • www.linkedin.com/in/aman-kumar-singh-71a090206
-- • aksingh1652@gmail.com
+- www.linkedin.com/in/aman-kumar-singh-71a090206
+- aksingh1652@gmail.com
 
