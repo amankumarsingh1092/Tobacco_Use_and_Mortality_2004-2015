@@ -57,8 +57,8 @@ To predict the likelihood of mortality using health data, with a focus on tobacc
 ### 8. Deployment
 - REST API using Flask for prediction
 - (Optional) Web interface using Streamlit or Dash
-
- Author
-Aman Kumar Singh
-• www.linkedin.com/in/aman-kumar-singh-71a090206 • aksingh1652@gmail.com
+### Author
+- Aman Kumar Singh
+- • www.linkedin.com/in/aman-kumar-singh-71a090206
+- • aksingh1652@gmail.com
 
