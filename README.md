@@ -1,4 +1,5 @@
 # Tobacco Use and Mortality (2004–2015) 
+![danger-smoking-infographic_23-2148701170](https://github.com/user-attachments/assets/e4f8908c-19a7-4782-ba12-fe5c6a359bcf)
 
 About the Project
 This machine learning project analyzes the relationship between tobacco use and mortality rates using health data from 2004 to 2015. Smoking-related conditions resulted in 1.7 million hospital admissions in England in 2014–2015 alone, highlighting the urgency of predictive health analytics.
