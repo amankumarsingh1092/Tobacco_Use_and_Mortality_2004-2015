@@ -52,7 +52,3 @@ Used the following plots to derive insights:
 - www.linkedin.com/in/aman-kumar-singh-71a090206
 - aksingh1652@gmail.com
 
-## Author
-- **Name**: Aman Kumar Singh  
-- **LinkedIn**: [linkedin.com/in/aman-kumar-singh-71a090206](https://www.linkedin.com/in/aman-kumar-singh-71a090206)  
-- **Email**: aksingh1652@gmail.com
