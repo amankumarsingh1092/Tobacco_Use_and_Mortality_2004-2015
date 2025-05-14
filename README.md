@@ -19,7 +19,14 @@ To predict the likelihood of mortality using health data, with a focus on tobacc
 - **Data Processing & Visualization**: pandas, numpy, matplotlib, seaborn  
 - **Modeling Evaluation**:Confusion Matrix, Accuracy Score, Classification Report 
 - **Machine Learning**: train-test split, Random Forest Classifier  
- - **IDE**: Jupyter Notebook
+- **IDE**: Jupyter Notebook
+   
+## Some Model Outputs & Visualizations
+![Screenshot 2025-05-14 122058](https://github.com/user-attachments/assets/fe9fad2f-5551-43ff-86cd-13d698b10cc5)
+![Screenshot 2025-05-14 122255](https://github.com/user-attachments/assets/959165cd-3fa5-4bb0-98c5-dc091a4da61a)
+![Screenshot 2025-05-14 122520](https://github.com/user-attachments/assets/31380bbb-c8de-47bc-b52a-e438396d5aec)
+![Screenshot 2025-05-14 122659](https://github.com/user-attachments/assets/aa1faaff-7c44-42f0-86d1-f2199c257fe0)
+![Screenshot 2025-05-14 122821](https://github.com/user-attachments/assets/059cc35f-0062-4cef-8e61-bd9701b3fdff)
 
 ## Methodology
 ### 1. Data Cleaning & Preparation
