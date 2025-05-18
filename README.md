@@ -22,7 +22,7 @@ To predict the likelihood of mortality using health data, with a focus on tobacc
 - **IDE**: Jupyter Notebook
    
 ## Some Model Outputs & Visualizations
-![Screenshot 2025-05-18 193003](https://github.com/user-attachments/assets/b16c0b84-d02a-4bea-9b01-0fa0fe5cd3a4)
+![Screenshot 2025-05-18 193544](https://github.com/user-attachments/assets/72c95c36-1beb-4b81-8d44-11e38bd9cc1a)
 ![Screenshot 2025-05-14 122255](https://github.com/user-attachments/assets/959165cd-3fa5-4bb0-98c5-dc091a4da61a)
 ![Screenshot 2025-05-14 122520](https://github.com/user-attachments/assets/31380bbb-c8de-47bc-b52a-e438396d5aec)
 ![Screenshot 2025-05-14 122659](https://github.com/user-attachments/assets/aa1faaff-7c44-42f0-86d1-f2199c257fe0)
